@@ -1,0 +1,14 @@
+logs/*
+!logs/.gitkeep
+npm-debug.log
+yarn-error.log
+node_modules/
+package-lock.json
+yarn.lock
+coverage/
+.idea/
+run/
+build
+.DS_Store
+*.sw*
+*.un~

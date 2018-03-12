@@ -1,0 +1,23 @@
+{
+  "name": "1_first_prj_egg_hacknews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "egg-scripts start",
+    "dev": "egg-bin dev",
+    "test": "egg-bin test"
+  },
+  "keywords": [],
+  "author": "upeoe",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.4.1",
+    "egg-view-nunjucks": "^2.1.6"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.3.7",
+    "egg-mock": "^3.15.0",
+    "egg-scripts": "^2.5.1"
+  }
+}
